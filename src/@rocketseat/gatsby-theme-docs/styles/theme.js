@@ -7,8 +7,8 @@ export default {
         text: `#3b3b3b`,
         components: {
             blockquote: {
-                background: `#332616`,
-                text: `#E1E1E6`,
+                background: `#e0e0e0`,
+                text: `#2e2e2e`,
             },
         },
     },
