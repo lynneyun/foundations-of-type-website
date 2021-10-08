@@ -1,9 +1,9 @@
 # Sidebar navigation
 
-- label: 'About'
+- label: 'Intro'
   link: '/'
-- label: 'Quick Start Guide'
-  link: '/quick-start-guide'
+- label: 'Guide & FAQ'
+  link: '/about'
   
 - label: Curriculum
   items:
