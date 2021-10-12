@@ -1,10 +1,11 @@
 export default {
     colors: {
-        primary: '#44bd61',
+        primary: '#7a44bd',
         background: '#FFFFFF',
         shape: `#ebffe8`,
         title: `#394d41`,
         text: `#3b3b3b`,
+        link: '#7a44bd',
         components: {
             blockquote: {
                 background: `#e0e0e0`,

@@ -2,8 +2,8 @@
 
 - label: 'Intro'
   link: '/'
-- label: 'Guide & FAQ'
-  link: '/about'
+- label: 'FAQ'
+  link: '/faq'
   
 - label: Curriculum
   items:
@@ -25,5 +25,5 @@
   items:
     - label: 'About Space Type Co'
       link: https://spacetypecontinuum.com/
-    - label: ❤️ Donate
+    - label: ❤️ Tip Jar
       link: https://www.paypal.com/donate?hosted_button_id=EJMNLBTAH6WUA
