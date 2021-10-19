@@ -14,6 +14,12 @@ export default function GlobalStyle() {
           box-sizing: border-box;
         }
 
+        @font-face {
+          font-family: "Adelle Mono Flex";
+          src: url("/fonts/AdelleMonoFlex-Regular.woff2") format("woff2"),
+               url("/fonts/AdelleMonoFlex-Regular.woff") format("woff");
+        }
+
         body {
           font-size: 16px;
           font-family: ${theme.fonts.body};
