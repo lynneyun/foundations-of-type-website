@@ -1,11 +1,11 @@
 module.exports = {
     siteMetadata: {
-        siteTitle: `Rocket Docs`,
-        defaultTitle: `Rocket Docs`,
-        siteTitleShort: `Rocket Docs`,
-        siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
-        siteUrl: `https://rocketdocs.netlify.app`,
-        siteAuthor: `@rocketseat`,
+        siteTitle: `Foundations of Type Design`,
+        defaultTitle: `Foundations of Type Design`,
+        siteTitleShort: `Foundations of Type Design`,
+        siteDescription: `In this all-comprehensive course, students will learn about the foundations of type design, how to get started on designing their first typeface, and how to plan out a series of styles.`,
+        siteUrl: `https://typedesignschool.com`,
+        siteAuthor: `@lynneyun`,
         siteImage: `/banner.png`,
         siteLanguage: `en`,
         themeColor: `#8257E6`,
