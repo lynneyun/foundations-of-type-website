@@ -111,9 +111,9 @@ SEO.propTypes = {
 };
 
 SEO.defaultProps = {
-  title: '',
-  description: '',
+  title: 'Type Design School',
+  description: 'An accessible online course for anyone to learn the basics of type design',
   slug: '',
-  image: '',
+  image: 'https://github.com/lynneyun/foundations-of-type-website/blob/master/static/thumbnail.png',
   children: '',
 };
