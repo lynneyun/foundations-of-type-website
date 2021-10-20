@@ -3,7 +3,7 @@ module.exports = {
         siteTitle: `Foundations of Type Design`,
         defaultTitle: `Foundations of Type Design`,
         siteTitleShort: `Foundations of Type Design`,
-        siteDescription: `In this all-comprehensive course, students will learn about the foundations of type design, how to get started on designing their first typeface, and how to plan out a series of styles.`,
+        siteDescription: `An accessible online course that covers the foundations of latin type design.`,
         siteUrl: `https://typedesignschool.com`,
         siteAuthor: `@lynneyun`,
         siteImage: `/banner.png`,
