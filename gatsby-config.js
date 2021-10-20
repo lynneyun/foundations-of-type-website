@@ -6,7 +6,7 @@ module.exports = {
         siteDescription: `An accessible online course that covers the foundations of latin type design.`,
         siteUrl: `https://typedesignschool.com`,
         siteAuthor: `@lynneyun`,
-        siteImage: `/banner.png`,
+        siteImage: `https://github.com/lynneyun/foundations-of-type-website/blob/master/static/banner.png?raw=true`,
         siteLanguage: `en`,
         themeColor: `#8257E6`,
         basePath: `/`,
