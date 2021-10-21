@@ -1,4 +1,9 @@
-## 📄 Docs
+# Type Design School Website
+
+Made with Gatsby using the [Rocketseat theme](https://github.com/Rocketseat/gatsby-themes/tree/main/%40rocketseat/gatsby-theme-docs).
+
+
+## 📄 Notes for running site
 
 1. Navigate to the directory
 
@@ -19,7 +24,4 @@
    ```sh
    gatsby clean
    ```
-   
-***
-
-Notes: Made with [Rocketseat theme](https://github.com/Rocketseat/gatsby-themes/tree/main/%40rocketseat/gatsby-theme-docs)
+  
